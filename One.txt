@@ -3,3 +3,4 @@ Stroka
 123
 Add line
 Test
+new branch line
